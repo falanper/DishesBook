@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DishesBook</string>
+    <string name="title_home">Home</string>
+    <string name="title_add_dish">Add Dish</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="splash_screen_name">Dishes Book</string>
+    <string name="text_input_title">Title</string>
+    <string name="text_input_type">Type</string>
+    <string name="text_input_category">Category</string>
+    <string name="text_input_ingredients">Ingredients</string>
+    <string name="text_input_cook_time_in_minutes">Cook Time in Minutes</string>
+    <string name="text_input_directions_to_cook">Directions to Cook</string>
+    <string name="btn_add_dish">Add Dish</string>
+
+    <string name="title_select_image_asset">Select Image Action</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+
+</resources>
